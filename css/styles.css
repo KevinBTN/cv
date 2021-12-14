@@ -11450,6 +11450,7 @@ html {
 #about{
   height: 100vh;
 }
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
@@ -11535,6 +11536,7 @@ body{margin-top:20px;}
         right: 7.5rem;
         top: .3125rem
     }
+
 }
 
 .timeline-steps .timeline-content {
